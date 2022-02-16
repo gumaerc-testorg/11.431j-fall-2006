@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-431j-real-estate-finance-and-investment-fall-2006/6a880c6270e6579be09c8bd516bce5fd_ps2.pdf
+file: /media/courses/11-431j-real-estate-finance-and-investment-fall-2006/6a880c6270e6579be09c8bd516bce5fd_ps2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps2.pdf
 uid: 6a880c62-70e6-579b-e09c-8bd516bce5fd
