@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 45b107bc-2d2c-2531-6447-d95051aafe9a
 resourcetype: Document
 title: case3.pdf
 uid: 2c497895-96ca-71e8-85d2-747c0e59090c
