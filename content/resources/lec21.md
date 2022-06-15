@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about capital structure.
-file: /media/courses/11-431j-real-estate-finance-and-investment-fall-2006/074132b58798fbeb4562815dc1165356_lec21.pdf
+file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/074132b58798fbeb4562815dc1165356_lec21.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lec21.pdf
 uid: 074132b5-8798-fbeb-4562-815dc1165356
 ---
+Lecture notes about capital structure.
+

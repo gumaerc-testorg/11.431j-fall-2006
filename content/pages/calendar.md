@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the schedule of lectures, readings, and recitations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

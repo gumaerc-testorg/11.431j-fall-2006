@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course introduction (Geltner) ([PDF]({{< baseurl >}}/resources/lec1))
+Course introduction (Geltner) ({{% resource_link da65fdb2-1dfd-4e36-dd3b-5874527d880f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Course introduction (Geltner) ([PDF]({{< baseurl >}}/resources/lec1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-DCF (McGrath) ([PDF]({{< baseurl >}}/resources/lec2_3_4))
+DCF (McGrath) ({{% resource_link 2e9f5e8c-e158-25d9-581a-e0109b6cc0cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ NPV (Geltner)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Real estate cash flows, proformas (McGrath) ([PDF]({{< baseurl >}}/resources/lec5_7))
+Real estate cash flows, proformas (McGrath) ({{% resource_link 9baf67be-4ac3-41de-c340-b1f19a1c0c31 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Real estate opportunity cost of capital (McGrath)
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Leverage (McGrath) ([PDF]({{< baseurl >}}/resources/lec7))
+Leverage (McGrath) ({{% resource_link cdfa78ad-7f6d-75fe-ec63-92cf229cde0b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ After-tax cash flows (McGrath)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-After-tax investment analysis and capital budgeting (Geltner) ([PDF]({{< baseurl >}}/resources/lec11_12))
+After-tax investment analysis and capital budgeting (Geltner) ({{% resource_link 37c27f7b-6057-fa12-a973-2a5b88882dac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +127,7 @@ After-tax investment analysis and capital budgeting (Geltner) ([PDF]({{< baseurl
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Commercial mortgage underwriting (Geltner) ([PDF]({{< baseurl >}}/resources/lec12))
+Commercial mortgage underwriting (Geltner) ({{% resource_link 0f244be6-38f1-7076-ca66-0c4c0eda8bdb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +136,7 @@ Commercial mortgage underwriting (Geltner) ([PDF]({{< baseurl >}}/resources/lec1
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Case 2: Private practice case II due (McGrath) ([PDF]({{< baseurl >}}/resources/lec13))
+Case 2: Private practice case II due (McGrath) ({{% resource_link 49edad33-af6b-cccb-7936-e1485598619a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +154,7 @@ Exam 1 (Chapters 10-13, 14.1-5)
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Development financial feasibility (Geltner) ([PDF]({{< baseurl >}}/resources/lec15))
+Development financial feasibility (Geltner) ({{% resource_link 77580d68-a602-21e8-62fb-bc699cd7227b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +163,7 @@ Development financial feasibility (Geltner) ([PDF]({{< baseurl >}}/resources/lec
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Development project evaluation (Geltner) ([PDF]({{< baseurl >}}/resources/lec16))
+Development project evaluation (Geltner) ({{% resource_link 029b9eef-c1c1-8b4a-a601-57e6a27557b8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +214,7 @@ Lincoln (post) and Inter-Mountain (pre) case discussions (Geltner)
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Capital structure debt vs equity, etc. (Geltner) ([PDF]({{< baseurl >}}/resources/lec21))
+Capital structure debt vs equity, etc. (Geltner) ({{% resource_link 074132b5-8798-fbeb-4562-815dc1165356 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +232,7 @@ Project level capital structure (Geltner)
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Real options and land value (Geltner) ([PDF]({{< baseurl >}}/resources/lec23))
+Real options and land value (Geltner) ({{% resource_link 1e7b623b-4328-9197-7e9f-35935dda0976 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
