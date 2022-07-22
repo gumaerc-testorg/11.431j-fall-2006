@@ -5,6 +5,7 @@ file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/13c000b5214d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: case2.pdf
 uid: 13c000b5-214d-db11-b1b9-59ac1fa6cae0
 ---
 Case Assignment 2: Private Practice II.
-

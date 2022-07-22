@@ -5,6 +5,7 @@ file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/2c49789596ca
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: case3.pdf
 uid: 2c497895-96ca-71e8-85d2-747c0e59090c
 ---
 Case Assignment 3: One Lincoln Street.
-

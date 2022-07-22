@@ -5,6 +5,7 @@ file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/2838ebde793c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: review.pdf
 uid: 2838ebde-793c-b363-9c54-b883caed037b
 ---
 Exam review slides.
-

@@ -6,6 +6,7 @@ file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/1e7b623b4328
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec23.pdf
 uid: 1e7b623b-4328-9197-7e9f-35935dda0976
 ---
 Lecture slides about the real options model of land value and development project valuation.
-

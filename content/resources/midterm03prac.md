@@ -5,6 +5,7 @@ file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/0f4dc484ae52
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm03prac.pdf
 uid: 0f4dc484-ae52-8c6f-9a47-765a82453a7f
 ---
 Practice Midterm Exam from 2003.
-
