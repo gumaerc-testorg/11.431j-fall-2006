@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides about real estate cash flow pro formas and opportunity
   cost of capital (OCC).
 file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/9baf67be4ac341dec340b1f19a1c0c31_lec5_7.pdf
+file_size: 200856
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
