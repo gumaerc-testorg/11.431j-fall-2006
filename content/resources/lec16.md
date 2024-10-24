@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides about economic analysis of investment in real estate development
   projects.
-file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/029b9eefc1c18b4aa60157e6a27557b8_lec16.pdf
+file: /ol-ocw-studio-app/courses/11-431j-real-estate-finance-and-investment-fall-2006/029b9eefc1c18b4aa60157e6a27557b8_lec16.pdf
 file_size: 414058
 file_type: application/pdf
 learning_resource_types:
