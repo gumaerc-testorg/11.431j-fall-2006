@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Midterm Diagnostic Exam from 2006.
-file: /ol-ocw-studio-app/courses/11-431j-real-estate-finance-and-investment-fall-2006/d77d4efa90d4eb62e44110936b52cb97_midtermdiag.pdf
+file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/d77d4efa90d4eb62e44110936b52cb97_midtermdiag.pdf
 file_size: 86909
 file_type: application/pdf
 learning_resource_types:

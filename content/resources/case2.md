@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Case Assignment 2: Private Practice II.'
-file: /ol-ocw-studio-app/courses/11-431j-real-estate-finance-and-investment-fall-2006/13c000b5214ddb11b1b959ac1fa6cae0_case2.pdf
+file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/13c000b5214ddb11b1b959ac1fa6cae0_case2.pdf
 file_size: 339445
 file_type: application/pdf
 learning_resource_types:
