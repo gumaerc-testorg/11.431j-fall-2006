@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/11-431j-real-estate-finance-and-investment-fall-2006/3cdd8d84d7dd0fef202fcd0ba8d7a7a7_ps1.pdf
+file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/3cdd8d84d7dd0fef202fcd0ba8d7a7a7_ps1.pdf
 file_size: 222593
 file_type: application/pdf
 learning_resource_types:

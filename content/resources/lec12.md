@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides about mortgage basics, payments, yields, and values.
-file: /ol-ocw-studio-app/courses/11-431j-real-estate-finance-and-investment-fall-2006/0f244be638f17076ca660c4c0eda8bdb_lec12.pdf
+file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/0f244be638f17076ca660c4c0eda8bdb_lec12.pdf
 file_size: 244136
 file_type: application/pdf
 learning_resource_types:

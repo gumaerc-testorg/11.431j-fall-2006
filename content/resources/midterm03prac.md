@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice Midterm Exam from 2003.
-file: /ol-ocw-studio-app/courses/11-431j-real-estate-finance-and-investment-fall-2006/0f4dc484ae528c6f9a47765a82453a7f_midterm03prac.pdf
+file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/0f4dc484ae528c6f9a47765a82453a7f_midterm03prac.pdf
 file_size: 207885
 file_type: application/pdf
 learning_resource_types:
