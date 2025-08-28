@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about capital structure.
-file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/074132b58798fbeb4562815dc1165356_lec21.pdf
+file: /ol-ocw-studio-app/courses/11-431j-real-estate-finance-and-investment-fall-2006/074132b58798fbeb4562815dc1165356_lec21.pdf
 file_size: 195337
 file_type: application/pdf
 learning_resource_types:
