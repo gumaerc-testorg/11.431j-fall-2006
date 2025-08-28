@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam review slides.
-file: /courses/11-431j-real-estate-finance-and-investment-fall-2006/2838ebde793cb3639c54b883caed037b_review.pdf
+file: /ol-ocw-studio-app/courses/11-431j-real-estate-finance-and-investment-fall-2006/2838ebde793cb3639c54b883caed037b_review.pdf
 file_size: 96918
 file_type: application/pdf
 learning_resource_types:
